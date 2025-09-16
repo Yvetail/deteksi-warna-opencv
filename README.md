@@ -11,7 +11,7 @@ Ikuti langkah-langkah ini untuk menyiapkan *environment* dan dependensi yang dip
 1.  **Download & Ekstrak Proyek**
     Buka halaman utama repository ini di GitHub. Klik tombol hijau **`< > Code`**, lalu pilih **`Download ZIP`**. Setelah selesai di-download, ekstrak file ZIP tersebut di lokasi yang inginkan.
 
-    > **Untuk Pengguna Git:** Alternatifnya,nbisa clone repository ini langsung via terminal:
+    > **Untuk Pengguna Git:** Alternatifnya, bisa clone repository ini langsung via terminal:
     > `git clone https://github.com/Yvetail/deteksi-warna-opencv.git`
 
 2.  **Masuk ke Folder Proyek**
